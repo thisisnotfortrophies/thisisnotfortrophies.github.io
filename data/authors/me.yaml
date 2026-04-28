@@ -1,116 +1,100 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Jason Stanworth
+  given: Jason
+  family: Stanworth
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+
+postnominals: []
+
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🎓"
+
+role: PhD Student
+
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am a PhD student in Kinesiology, Nutrition, and Dietetics at the University of Northern Colorado with a focus in Physical Education and Physical Activity Leadership. My work explores how technology can support physical education, motor skill development, and meaningful movement experiences across educational settings.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Northern Colorado
+    url: https://www.unco.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+    url: "" # Add your academic email, e.g. mailto:name@unco.edu
+    label: Email
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: "" # Add your LinkedIn profile URL
+  - icon: brands/github
+    url: "" # Add your GitHub profile URL
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: "" # Add your Google Scholar profile URL
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: "" # Add your ORCID URL
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Technology-enhanced physical education
+  - Physical Education Teacher Education
+  - Motor skill development
+  - Motor learning and skill acquisition
+  - VR/AR and emerging technologies in physical education
+  - TPACK and technology integration
+  - Nonlinear pedagogy and constraints-led approaches
+  - Physical activity leadership
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD in Kinesiology, Nutrition, and Dietetics
+    institution: University of Northern Colorado
+    summary: In progress
+  - degree: MAT in Physical Education
+    institution: University of South Carolina
+  - degree: BS in Exercise Science
+    institution: Utah Tech University (formerly Dixie State University)
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Graduate Assistant / Teaching Assistant
+    org: University of Northern Colorado
+  - role: Graduate Program Instructor
+    org: University of Northern Colorado
+  - role: Active Schools Institute
+    org: University of Northern Colorado
 
 skills:
-  - name: Technical Skills
+  - name: Research Interests
     items:
-      - label: Python
+      - label: Technology-enhanced physical education
         level: 5
-      - label: Machine Learning
+      - label: Motor skill development
         level: 5
-      - label: Cloud Computing
+      - label: Motor learning and skill acquisition
+        level: 5
+      - label: TPACK and technology integration
+        level: 5
+      - label: Nonlinear pedagogy and constraints-led approaches
         level: 4
-  - name: Research & Communication
+      - label: Physical activity leadership
+        level: 5
+  - name: Teaching Interests
     items:
-      - label: Academic Writing
+      - label: Physical education teacher education
         level: 5
-      - label: Conference Presentations
+      - label: Instructional models in physical education
+        level: 5
+      - label: Technology in physical education
+        level: 5
+      - label: Movement integration
         level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Skill acquisition and motor development
+        level: 5
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+    label: Professional
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+awards: []

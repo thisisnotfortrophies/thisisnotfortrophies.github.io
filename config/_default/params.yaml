@@ -13,18 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Jason Stanworth"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Physical Education | Technology | Motor Skill Development"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Academic website of Jason Stanworth, PhD student in Kinesiology, Nutrition, and Dietetics at the University of Northern Colorado."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -114,9 +114,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} Jason Stanworth"
     license:
-      type: cc                          # cc | custom
+      type: custom                          # cc | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -127,15 +127,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Jason Stanworth | PhD Student"
     # For local_business identity type only
     location:
       address:
         street: ""
-        city: ""
-        region: ""
+        city: "Greeley"
+        region: "Colorado"
         postal_code: ""
-        country: ""
+        country: "United States"
       coordinates:
         latitude: null
         longitude: null
@@ -146,7 +146,7 @@ hugoblox:
         - /
       disallow: []
       note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+      contact: "TODO: add contact email"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
