@@ -12,7 +12,7 @@ sections:
       text: Physical Education | Technology | Motor Skill Development
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /uploads/Jason_Stanworth_Academic_CV.pdf
       headings:
         about: Bio/About
         education: Education
@@ -50,7 +50,8 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        **Email:** TODO - add your preferred contact email.
+        Email: jason.stanworth@unco.edu
+                jd.stanworth@unco.edu
 
         **Office/Department:** Kinesiology, Nutrition, and Dietetics, University of Northern Colorado.
     design:
